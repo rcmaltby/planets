@@ -1,4 +1,4 @@
-Venus is another planet.
+Venus is another planet. This is a conflicting change
 
 Venus is the second planet.
 
